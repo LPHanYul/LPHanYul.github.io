@@ -90235,7 +90235,7 @@ s=A.bG("main_ex_txt")
 r=this.cH$
 q=r.rx
 q=q==null?o:q.cW(o)
-q=A.bS(A.cD(s+"2222",q,o),o,o)
+q=A.bS(A.cD(s+"333",q,o),o,o)
 s=A.ao_(o,200*$.aD().gbe(),new A.atg(),A.bG("main_score_button"))
 p=$.aD().gbe()
 return A.w6(o,A.dh(A.b([q,s,A.ao_(r.y.gl(0),200*p,new A.ath(),A.bG("main_visual_button"))],t.p),B.w,B.ee,B.x))},
